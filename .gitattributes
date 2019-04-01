@@ -38,6 +38,7 @@ composer.lock export-ignore
 phpcs.xml.dist export-ignore
 package-lock.json export-ignore
 package.json export-ignore
+README.md export-ignore
 
 /vendor/afragen/wp-dependency-installer/example-plugin/ export-ignore
 /vendor/afragen/wp-dependency-installer/composer.json export-ignore
@@ -55,3 +56,4 @@ package.json export-ignore
 /vendor/composer/LICENSE export-ignore
 
 /vendor/genesiscustomizer/installer/composer.json export-ignore
+/vendor/genesiscustomizer/installer/README.md export-ignore
