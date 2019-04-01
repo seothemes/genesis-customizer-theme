@@ -39,6 +39,7 @@ phpcs.xml.dist export-ignore
 package-lock.json export-ignore
 package.json export-ignore
 README.md export-ignore
+LICENSE.md export-ignore
 
 /vendor/afragen/wp-dependency-installer/example-plugin/ export-ignore
 /vendor/afragen/wp-dependency-installer/composer.json export-ignore
