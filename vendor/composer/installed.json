@@ -77,25 +77,25 @@
         "description": "Simple library to persist dismissal of admin notices across pages in WordPress dashboard."
     },
     {
-        "name": "genesiscustomizer/installer",
+        "name": "seothemes/genesis-customizer-installer",
         "version": "dev-master",
         "version_normalized": "9999999-dev",
         "source": {
             "type": "git",
-            "url": "https://github.com/genesisplugins/installer.git",
-            "reference": "ba1ca85c1a46a126595b747a3db064b5dd0b98bc"
+            "url": "https://github.com/seothemes/genesis-customizer-installer.git",
+            "reference": "a161b5cb074ad7dcd3fede061116933250f97049"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/genesisplugins/installer/zipball/ba1ca85c1a46a126595b747a3db064b5dd0b98bc",
-            "reference": "ba1ca85c1a46a126595b747a3db064b5dd0b98bc",
+            "url": "https://api.github.com/repos/seothemes/genesis-customizer-installer/zipball/a161b5cb074ad7dcd3fede061116933250f97049",
+            "reference": "a161b5cb074ad7dcd3fede061116933250f97049",
             "shasum": ""
         },
         "require": {
             "afragen/wp-dependency-installer": "^1.4",
-            "php": ">=5.6"
+            "php": ">=5.4"
         },
-        "time": "2019-03-31T03:05:58+00:00",
+        "time": "2019-04-01T11:30:40+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -103,6 +103,9 @@
                 "installer.php"
             ]
         },
-        "notification-url": "https://packagist.org/downloads/"
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0-or-later"
+        ]
     }
 ]

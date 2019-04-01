@@ -7,8 +7,8 @@ namespace Composer\Autoload;
 class ComposerStaticInitb9d45c20c47d7f49ff1a700f3795354c
 {
     public static $files = array (
-        '66cb6a3baafda811a121d437ef4f077f' => __DIR__ . '/..' . '/genesiscustomizer/installer/installer.php',
-        '8131048447041ee9d43ee72a214e5bd3' => __DIR__ . '/../..' . '/../genesis/lib/init.php',
+        '35d5ddd3ddce2ba0572dd3c032673826' => __DIR__ . '/..' . '/seothemes/genesis-customizer-installer/installer.php',
+        '23bcf6ab5080776705b444c9cd7e7a8d' => __DIR__ . '/../..' . '/../genesis/lib/init.php',
     );
 
     public static $classMap = array (

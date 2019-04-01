@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Genesis Customizer plugin",
+    "host": "github",
+    "slug": "genesis-customizer/genesis-customizer.php",
+    "uri": "seothemes/genesis-customizer-plugin",
+    "branch": "master",
+    "optional": false,
+    "token": null
+  }
+]

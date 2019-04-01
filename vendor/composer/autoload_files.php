@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    '66cb6a3baafda811a121d437ef4f077f' => $vendorDir . '/genesiscustomizer/installer/installer.php',
-    '8131048447041ee9d43ee72a214e5bd3' => $baseDir . '/../genesis/lib/init.php',
+    '35d5ddd3ddce2ba0572dd3c032673826' => $vendorDir . '/seothemes/genesis-customizer-installer/installer.php',
+    '23bcf6ab5080776705b444c9cd7e7a8d' => $baseDir . '/../genesis/lib/init.php',
 );
