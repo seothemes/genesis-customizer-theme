@@ -1,0 +1,9 @@
+/logs/
+/node_modules/
+/composer.lock
+/yarn.lock
+/.phpcs.xml
+/phpcs.xml
+/phpunit.xml
+
+/vendor/bin/

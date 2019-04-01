@@ -1,0 +1,24 @@
+{
+  "name": "genesiscustomizer/theme",
+  "authors": [
+    {
+      "name": "seothemes",
+      "email": "seothemeswp@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3",
+    "genesiscustomizer/installer": "dev-master"
+  },
+  "autoload": {
+    "files": [
+      "../genesis/lib/init.php"
+    ]
+  },
+  "config": {
+    "preferred-install": {
+      "*": "dist"
+    },
+    "sort-packages": true
+  }
+}
