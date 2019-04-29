@@ -83,19 +83,19 @@
         "source": {
             "type": "git",
             "url": "https://github.com/seothemes/genesis-customizer-installer.git",
-            "reference": "a161b5cb074ad7dcd3fede061116933250f97049"
+            "reference": "7ee968080510a42f7f8ffa6445c02b33c7f551b8"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/seothemes/genesis-customizer-installer/zipball/a161b5cb074ad7dcd3fede061116933250f97049",
-            "reference": "a161b5cb074ad7dcd3fede061116933250f97049",
+            "url": "https://api.github.com/repos/seothemes/genesis-customizer-installer/zipball/7ee968080510a42f7f8ffa6445c02b33c7f551b8",
+            "reference": "7ee968080510a42f7f8ffa6445c02b33c7f551b8",
             "shasum": ""
         },
         "require": {
             "afragen/wp-dependency-installer": "^1.4",
             "php": ">=5.4"
         },
-        "time": "2019-04-01T11:30:40+00:00",
+        "time": "2019-04-29T12:10:18+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
