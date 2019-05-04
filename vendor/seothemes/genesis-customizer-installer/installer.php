@@ -11,8 +11,6 @@ add_action( 'genesis_setup', __NAMESPACE__ . '\setup_theme' );
  * @return void
  */
 function setup_theme() {
-	$optional = false;
-
 	$config = apply_filters( 'genesis_customizer_dependencies', [
 		[
 			'name'     => 'Genesis Customizer',
@@ -20,7 +18,7 @@ function setup_theme() {
 			'slug'     => 'genesis-customizer/genesis-customizer.php',
 			'uri'      => 'seothemes/genesis-customizer',
 			'branch'   => 'master',
-			'optional' => $optional,
+			'optional' => false,
 			'token'    => null,
 		],
 		[
@@ -28,14 +26,7 @@ function setup_theme() {
 			'host'     => 'wordpress',
 			'slug'     => 'one-click-demo-import/one-click-demo-import.php',
 			'uri'      => 'https://wordpress.org/plugins/one-click-demo-import/',
-			'optional' => $optional,
-		],
-		[
-			'name'     => 'Kirki',
-			'host'     => 'wordpress',
-			'slug'     => 'kirki/kirki.php',
-			'uri'      => 'https://wordpress.org/plugins/kirki/',
-			'optional' => $optional,
+			'optional' => false,
 		],
 	] );
 
