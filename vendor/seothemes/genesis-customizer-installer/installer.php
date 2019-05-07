@@ -21,13 +21,6 @@ function setup_theme() {
 			'optional' => false,
 			'token'    => null,
 		],
-		[
-			'name'     => 'One Click Demo Import',
-			'host'     => 'wordpress',
-			'slug'     => 'one-click-demo-import/one-click-demo-import.php',
-			'uri'      => 'https://wordpress.org/plugins/one-click-demo-import/',
-			'optional' => false,
-		],
 	] );
 
 	// Install and active dependencies.
