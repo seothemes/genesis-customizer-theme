@@ -1,24 +1,24 @@
 [
     {
         "name": "afragen/wp-dependency-installer",
-        "version": "1.4.11",
-        "version_normalized": "1.4.11.0",
+        "version": "1.4.13",
+        "version_normalized": "1.4.13.0",
         "source": {
             "type": "git",
             "url": "https://github.com/afragen/wp-dependency-installer.git",
-            "reference": "59941012624fdf979b15c1b9333edb5bd080ef9d"
+            "reference": "3eaab246f7f0ed9490294e6cfe9b17b71398d574"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/afragen/wp-dependency-installer/zipball/59941012624fdf979b15c1b9333edb5bd080ef9d",
-            "reference": "59941012624fdf979b15c1b9333edb5bd080ef9d",
+            "url": "https://api.github.com/repos/afragen/wp-dependency-installer/zipball/3eaab246f7f0ed9490294e6cfe9b17b71398d574",
+            "reference": "3eaab246f7f0ed9490294e6cfe9b17b71398d574",
             "shasum": ""
         },
         "require": {
             "collizo4sky/persist-admin-notices-dismissal": "^1",
             "php": ">=5.3"
         },
-        "time": "2019-03-09T17:57:11+00:00",
+        "time": "2019-09-08T16:08:54+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -32,13 +32,13 @@
         ],
         "authors": [
             {
-                "name": "Matt Gibbs",
-                "role": "Developer"
-            },
-            {
                 "name": "Andy Fragen",
                 "email": "andy@thefragens.com",
                 "homepage": "https://thefragens.com",
+                "role": "Developer"
+            },
+            {
+                "name": "Matt Gibbs",
                 "role": "Developer"
             }
         ],
